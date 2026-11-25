@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795625316|5311518';
+const CACHE_VERSION = '1795626407|7318495';
 /** @type {string} */
 const CACHE_PREFIX = 'Kalew: Marea de -sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
